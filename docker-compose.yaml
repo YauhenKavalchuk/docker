@@ -1,0 +1,11 @@
+version: "v2.22.0-desktop.2"
+services: 
+  api:
+    build: ./api
+    container_name: api
+    ports:
+      - '3001:3000'
+    volumes:
+      - ./api:/app
+      - /app/node_modules
+
