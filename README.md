@@ -1,7 +1,7 @@
 # Docker
 
 ### Описание курса:
-
+В данном видеокурсе мы с вами рассмотрим Docker. Docker - это платформа для разработки, доставки и запуска контейнерных приложений. Другими словами, вы можете “упаковать” созданное вами приложение в образ. Любой кто скачает данный образ сможет запустить на его основании контейнер, который является изолированной средой, со всеми настройками необходимыми для работы вашего приложения. И запустить это приложение, точно так же, как если бы оно было запущено на вашем компьютере. В течение курса мы разберёмся в основных понятиях, научимся создавать собственные образы и запускать контейнеры, а так же управлять ими, научимся конфигурировать docker-compose и контейнерезировать различные приложения. В заключении, созданный нами образ мы загрузим на Docker Hub.
 
 ### Поддержать развитие канала:
 [<img alt="webDev | YouTube Sponsor" src="https://img.shields.io/badge/Become a sponsor-F70000.svg?&style=for-the-badge&logo=youtube&logoColor=fff" />][sponsor]
@@ -12,16 +12,16 @@
 ### Используемые инструменты:
 - [Visual Studio Code (редактор кода)](https://code.visualstudio.com)
 - [Postman (работа с API)](https://www.postman.com/)
-- [JSON Viewer](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh?hl=ru)
 
 ### Полезные ссылки:
-- [mongodb-compass (Brew установка)](https://formulae.brew.sh/cask/mongodb-compass)
-- [Установка MongoDB для MacOs](https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-os-x/)
-- [Скачать MongoDB MacOS/Windows](https://www.mongodb.com/try/download/community)
-- [Запуск MongoDB на Windows 10](https://pacificsky.ru/recepty/nosql/mongodb/198-kak-ustanovit-i-zapustit-mongodb-na-windows-10.html)
-- [Mongoose схемы](https://mongoosejs.com/docs/schematypes.html)
+- [Docker (официальный сайт)](https://www.docker.com/)
+- [Установка Docker для MacOs](https://docs.docker.com/desktop/install/mac-install/)
+- [Docker (релизы/версии)](https://docs.docker.com/desktop/release-notes/#4242)
+- [Docker Hub](https://hub.docker.com/)
+- [Статья "Docker Build cache"](https://docs.docker.com/build/cache/)
 
 ### Полезные видео:
+- [NodeJS. Клиент и сервер](https://youtu.be/1QA-wpRnpG0)
 - [ECMAScript 2015. Полный курс (ES6)](https://youtu.be/TvgkcaaMLcc)
 - [NodeJS. Полный курс](https://youtu.be/nu4PiyjAmAE)
 
@@ -29,11 +29,11 @@
 
 ### Быстрый старт
 - Клонируйте репозиторий: `https://github.com/YauhenKavalchuk/docker.git`
-- Перейдите в папку с проектом: `cd docker`, `cd api`
+- Перейдите в папку с проектом: `cd docker/api`
 - Перейдите в нужную ветку соответствующую уроку:
-  - `git checkout lesson_01`
-  - `git checkout lesson_04`
-  - `git checkout lesson_06` и т.д.
+  - `git checkout lesson_05`
+  - `git checkout lesson_06`
+  - `git checkout lesson_07` и т.д.
 
 ---
 
@@ -43,7 +43,19 @@
 ---
 
 ### Список уроков:
-
+- #0 Введение (Introduction)
+- #1 Основные понятия (Basic Concepts)
+- #2 Установка инструментов (Tools Installation)
+- #3 Docker контейнер (Docker Container)
+- #4 Родительский образ и Docker Hub (Parent Image & Docker Hub)
+- #5 Создание образа и Dockerfile (Creating Image & The Dockerfile)
+- #6 Управление контейнерами (Managing Containers)
+- #7 Кэширование слоёв (Layers Caching)
+- #8 Управление образами и тэги (Managing Images & Tags)
+- #9 Docker Тома (Docker Volumes)
+- #10 Docker Compose
+- #11 Докеризация React приложения (Dockerizing a React App)
+- #12 Загрузка образа на Docker Hub (Uploading Images on Docker Hub)
 ---
 
 ### Связаться со мной:
