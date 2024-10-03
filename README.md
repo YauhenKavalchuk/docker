@@ -43,19 +43,19 @@
 ---
 
 ### Список уроков:
-- #0 Введение (Introduction)
-- #1 Основные понятия (Basic Concepts)
-- #2 Установка инструментов (Tools Installation)
-- #3 Docker контейнер (Docker Container)
-- #4 Родительский образ и Docker Hub (Parent Image & Docker Hub)
-- #5 Создание образа и Dockerfile (Creating Image & The Dockerfile)
-- #6 Управление контейнерами (Managing Containers)
-- #7 Кэширование слоёв (Layers Caching)
-- #8 Управление образами и тэги (Managing Images & Tags)
-- #9 Docker Тома (Docker Volumes)
-- #10 Docker Compose
-- #11 Докеризация React приложения (Dockerizing a React App)
-- #12 Загрузка образа на Docker Hub (Uploading Images on Docker Hub)
+- [#0 Введение (Introduction)](https://youtu.be/dwP-z0b-pF4)
+- [#1 Основные понятия (Basic Concepts)](https://youtu.be/BsXBzUBdBcU)
+- [#2 Установка инструментов (Tools Installation)](https://youtu.be/2PU0G6-CUD8)
+- [#3 Docker контейнер (Docker Container)](https://youtu.be/609JEfvcbvc)
+- [#4 Родительский образ и Docker Hub (Parent Image & Docker Hub)](https://youtu.be/i7Zj8REC4P8)
+- [#5 Создание образа и Dockerfile (Creating Image & The Dockerfile)](https://youtu.be/acmw4DCQjS4)
+- [#6 Управление контейнерами (Managing Containers)](https://youtu.be/evogtrlx-gE)
+- [#7 Кэширование слоёв (Layers Caching)](https://youtu.be/Hbzk0QT3mPA)
+- [#8 Управление образами и тэги (Managing Images & Tags)](https://youtu.be/ejVTD2C66yc)
+- [#9 Docker Тома (Docker Volumes)](https://youtu.be/4DDLtrG08WI)
+- [#10 Docker Compose](https://youtu.be/1taecP2IGPU)
+- [#11 Докеризация React приложения (Dockerizing a React App)](https://youtu.be/Z1uiI9rB3hs)
+- [#12 Загрузка образа на Docker Hub (Uploading Images on Docker Hub)](https://youtu.be/yT62_TWBhyY)
 ---
 
 ### Связаться со мной:
